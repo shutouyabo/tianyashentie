@@ -1,4 +1,3 @@
-
 Hi there~
 
 这是《天涯神贴》知识库。
@@ -11,9 +10,8 @@ Hi there~
 
 扫二维码转存(截图下方二维码，微信/QQ/夸克网盘APP 扫码后转存即可获取)
 
-
-
 💡转存方式从链接转为扫二维码转存，给您带来不便，敬请谅解，感谢您的理解和支持🙏
 
+网         址：[https://tainya.zhihu.blog/](https://zhangxuefeng.zhihu.blog/)
 
-网        址：[https://tainya.zhihu.blog/](https://zhangxuefeng.zhihu.blog/)
+备用网址：[https://tianyashentie.vercel.app/](https://tianyashentie.vercel.app/)
