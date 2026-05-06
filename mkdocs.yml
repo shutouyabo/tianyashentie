@@ -1,0 +1,94 @@
+site_name: 张雪峰语录
+site_url: https://zhangxuefeng.zhihu.blog/
+site_author: shutouyabo
+site_description: >-
+  wiki bin
+
+repo_name: 张雪峰语录
+repo_url: https://github.com/shutouyabo/zhangxuefeng.github.io/
+
+copyright: Copyright &copy; 2021-present <a href="https://github.com/shutouyabo" target="_blank" rel="noopener noreferrer">shutouyabo</a>
+
+theme:
+  name: material
+  language: zh
+  static_templates:
+    - 404.html
+  favicon: images/favicon.ico
+  apple-touch-icon-precomposed: images/mobile_icon.png
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto Slab
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+  custom_dir: overrides
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+
+plugins:
+  - i18n:
+      languages:
+        - locale: zh
+          default: true
+          name: 简体中文
+          build: true
+
+  - search:
+      lang:
+        - zh
+  - git-revision-date:
+  - minify:
+      minify_html: true
+  - open-in-new-tab:
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/shutouyabo/zhangxuefeng.github.io/
+  analytics:
+    provider: google
+    property: G-KJB4RXSKZG
+
+nav:
+  - 前言: "index.md"
+  - 张雪峰系统:
+      - "张雪峰 - 著作与系统思考": "张雪峰系统/张雪峰 - 著作与系统思考.md"
+      - "张雪峰 - 长对话与即兴思考": "张雪峰系统/张雪峰 - 长对话与即兴思考.md"
+      - "张雪峰 - 碎片表达与风格DNA": "张雪峰系统/张雪峰 - 碎片表达与风格DNA.md"
+      - "张雪峰 - 他者视角与批评": "张雪峰系统/张雪峰 - 他者视角与批评.md"
+      - "张雪峰 - 决策记录与行动": "张雪峰系统/张雪峰 - 决策记录与行动.md"
+      - "张雪峰 - 人物时间线": "张雪峰系统/张雪峰 - 人物时间线.md"
+  - 张雪峰视角对话实录:
+      - "张雪峰视角对话实录 1": "张雪峰视角对话实录/张雪峰视角对话实录 1.md"
