@@ -1,11 +1,11 @@
-site_name: 张雪峰语录
-site_url: https://zhangxuefeng.zhihu.blog/
+site_name: 天涯神贴大合集
+site_url: https://tianyashentie.zhihu.blog/
 site_author: shutouyabo
 site_description: >-
   wiki bin
 
 repo_name: 张雪峰语录
-repo_url: https://github.com/shutouyabo/zhangxuefeng.github.io/
+repo_url: https://github.com/shutouyabo/tianyashentie/
 
 copyright: Copyright &copy; 2021-present <a href="https://github.com/shutouyabo" target="_blank" rel="noopener noreferrer">shutouyabo</a>
 
@@ -76,19 +76,18 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/shutouyabo/zhangxuefeng.github.io/
+      link: https://github.com/shutouyabo/tianyashentie/
   analytics:
     provider: google
     property: G-KJB4RXSKZG
 
 nav:
   - 前言: "index.md"
-  - 张雪峰系统:
-      - "张雪峰 - 著作与系统思考": "张雪峰系统/张雪峰 - 著作与系统思考.md"
-      - "张雪峰 - 长对话与即兴思考": "张雪峰系统/张雪峰 - 长对话与即兴思考.md"
-      - "张雪峰 - 碎片表达与风格DNA": "张雪峰系统/张雪峰 - 碎片表达与风格DNA.md"
-      - "张雪峰 - 他者视角与批评": "张雪峰系统/张雪峰 - 他者视角与批评.md"
-      - "张雪峰 - 决策记录与行动": "张雪峰系统/张雪峰 - 决策记录与行动.md"
-      - "张雪峰 - 人物时间线": "张雪峰系统/张雪峰 - 人物时间线.md"
-  - 张雪峰视角对话实录:
-      - "张雪峰视角对话实录 1": "张雪峰视角对话实录/张雪峰视角对话实录 1.md"
+  - 1 - 天涯神贴210:
+      - "天涯神贴210（1-50篇）": "1 - 天涯神贴210/天涯神贴210（1-50篇）.md"
+      - "天涯神贴210（51-100篇）": "1 - 天涯神贴210/天涯神贴210（51-100篇）.md"
+      - "天涯神贴210（101-150篇）": "1 - 天涯神贴210/天涯神贴210（101-150篇）.md"
+      - "天涯神贴210（151-194篇）": "1 - 天涯神贴210/天涯神贴210（151-194篇）.md"
+  - 2 - 【蓬莱鬼话】【玄幻灵异】【中医命理】:
+      - "【蓬莱鬼话】【玄幻灵异】【中医命理】1-37篇": "2 - 【蓬莱鬼话】【玄幻灵异】【中医命理】/【蓬莱鬼话】【玄幻灵异】【中医命理】1-37篇.md"
+      
