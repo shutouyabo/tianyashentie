@@ -1,8 +1,3 @@
-<figure markdown>
-  ![Image title](./images/title.gif){ width="600" }
-</figure>
-
-
 Hi there~
 
 这是《天涯神贴》知识库。
