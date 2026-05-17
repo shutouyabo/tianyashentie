@@ -20,7 +20,7 @@ Hi there~
 **💡转存方式从链接转为扫二维码转存，给您带来不便，敬请谅解，感谢您的理解和支持🙏**
 
 谢谢赞赏
-![](images/sponsor.jpg)
+![](docs/images/sponsor.jpg)
 
 
 
