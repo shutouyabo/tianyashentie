@@ -15,11 +15,12 @@ Hi there~
 
 **扫二维码转存**(截图下方二维码，微信/QQ/夸克网盘APP 扫码后转存即可获取)
 
-![](kuake.png)
+![](docs/images/kuake.png)
 
 **💡转存方式从链接转为扫二维码转存，给您带来不便，敬请谅解，感谢您的理解和支持🙏**
 
 谢谢赞赏
+
 ![](docs/images/sponsor.jpg)
 
 
