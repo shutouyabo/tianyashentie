@@ -15,3 +15,16 @@
 ![img](images/sponsor.jpg)
 
 ![img](images/shipin.mp4)
+
+[Video Title](images/shipin.mp4)
+
+
+
+<iframe width="560" height="315" src="images/shipin.mp4" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://tianya.zhihu.blog/images/shipin.mp4" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="images/shipin.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://tianya.zhihu.blog/images/shipin.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
