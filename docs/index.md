@@ -28,3 +28,5 @@
 <iframe src="images/shipin.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://tianya.zhihu.blog/images/shipin.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="images/shipin2.mp4" frameborder="0" allowfullscreen></iframe>
