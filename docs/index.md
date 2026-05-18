@@ -13,3 +13,5 @@
 **如果你对项目的分享满意，请在力所能及的范围内，给予打赏鼓励。**
 
 ![img](images/sponsor.jpg)
+
+![img](images/shipin.mp4)
