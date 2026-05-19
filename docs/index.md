@@ -14,9 +14,14 @@
 
 ![img](images/sponsor.jpg)
 
-![img](images/shipin.mp4)
 
 [Video Title](images/shipin.mp4)
+
+！[Video Title](images/shipin.mp4)
+
+[Video Title](https://tianya.zhihu.blog/images/shipin.mp4)
+
+！[Video Title](https://tianya.zhihu.blog/images/shipin.mp4)
 
 
 
