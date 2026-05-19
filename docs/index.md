@@ -15,18 +15,7 @@
 ![img](images/sponsor.jpg)
 
 
-[Video Title](images/shipin.mp4)
-
-！[Video Title](images/shipin.mp4)
-
-[Video Title](https://tianya.zhihu.blog/images/shipin.mp4)
-
-！[Video Title](https://tianya.zhihu.blog/images/shipin.mp4)
-
-
+### 让自己旺旺旺 十个潜规则
 
 <iframe width="500" height="280" src="images/shipin.mp4" frameborder="0" allowfullscreen></iframe>
 
-
-
-<iframe width="560" height="315" src="images/shipin2.mp4" frameborder="0" allowfullscreen></iframe>
