@@ -29,6 +29,4 @@
 
 
 
-
-
 <iframe width="560" height="315" src="images/shipin2.mp4" frameborder="0" allowfullscreen></iframe>
