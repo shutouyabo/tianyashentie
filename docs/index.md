@@ -17,6 +17,6 @@
 
 ### 让自己旺旺旺 十个潜规则
 
-<iframe width="500" height="280" src="images/shipin.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="280" src="images/wangwangwang.mp4" frameborder="0" allowfullscreen></iframe>
 
 ---
