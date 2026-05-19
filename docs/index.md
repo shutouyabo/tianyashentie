@@ -19,8 +19,4 @@
 
 <iframe width="500" height="280" src="images/shipin.mp4" frameborder="0" allowfullscreen></iframe>
 
-
-![img](images/1.pdf)
-
-
-<iframe src="images/1.pdf" width="100%" height="600px"></iframe>
+---
