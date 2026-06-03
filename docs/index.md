@@ -23,3 +23,10 @@
 
 <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
 <script>LA.init({id:"L0ZDlWY6HhH0NxKi",ck:"L0ZDlWY6HhH0NxKi"})</script>
+
+
+
+markdown
+[点击这里查看PDF](https://docs.google.com/gview?url=路径/到/你的文件.pdf&embedded=true)
+
+[点击这里查看PDF](docs/images/针对性护理干预在子宫肌瘤围手术期的效果探讨.pdf)
