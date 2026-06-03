@@ -4,8 +4,8 @@ site_author: shutouyabo
 site_description: >-
   wiki tianya
 
-repo_name: 51la网站统计
-repo_url: https://v6.51.la/land/L0ZDlWY6HhH0NxKi
+repo_name: 天涯神贴
+repo_url: https://github.com/shutouyabo/tianyashentie/
 
 copyright: Copyright &copy; 2026 <a href="https://tianya.zhihu.blog/" target="_blank" rel="noopener noreferrer">天涯神贴</a>
 
@@ -78,7 +78,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/shutouyabo/tianyashentie/
+      link: <a target="_blank" title="51la网站统计" href="https://v6.51.la/land/L0ZDlWY6HhH0NxKi"><img src="https://sdk.51.la/icon/3-1.png"></a>
   analytics:
     provider: google
     property: G-KJB4RXSKZG
