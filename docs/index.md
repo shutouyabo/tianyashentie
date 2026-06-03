@@ -29,4 +29,4 @@
 markdown
 [点击这里查看PDF](https://docs.google.com/gview?url=路径/到/你的文件.pdf&embedded=true)
 
-[针对性护理干预在子宫肌瘤围手术期的效果探讨](docs/images/针对性护理干预在子宫肌瘤围手术期的效果探讨.pdf)
+[针对性护理干预在子宫肌瘤围手术期的效果探讨](/images/针对性护理干预在子宫肌瘤围手术期的效果探讨.pdf)
