@@ -25,10 +25,3 @@
 <script>LA.init({id:"L0ZDlWY6HhH0NxKi",ck:"L0ZDlWY6HhH0NxKi"})</script>
 
 
-
-markdown
-[点击这里查看PDF](https://docs.google.com/gview?url=路径/到/你的文件.pdf&embedded=true)
-
-[针对性护理干预在子宫肌瘤围手术期的效果探讨](/images/针对性护理干预在子宫肌瘤围手术期的效果探讨.pdf)
-
-[硫酸镁钠钾口服用浓溶液与聚乙二醇电解质散结肠镜肠道准备的效果对比：基于倾向评分匹配的队列研究](/images/硫酸镁钠钾口服用浓溶液与聚乙二醇电解质散结肠镜肠道准备的效果对比：基于倾向评分匹配的队列研究.pdf)
