@@ -77,8 +77,8 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: <a target="_blank" title="51la网站统计" href="https://v6.51.la/land/L0ZDlWY6HhH0NxKi"><img src="https://sdk.51.la/icon/3-1.png"></a>
+    - icon: https://sdk.51.la/icon/3-1.png
+      link: https://v6.51.la/land/L0ZDlWY6HhH0NxKi
   analytics:
     provider: google
     property: G-KJB4RXSKZG
