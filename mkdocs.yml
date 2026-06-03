@@ -7,7 +7,8 @@ site_description: >-
 repo_name: 天涯神贴大合集
 repo_url: https://github.com/shutouyabo/tianyashentie/
 
-copyright: Copyright &copy; 2021-present <a href="https://github.com/shutouyabo" target="_blank" rel="noopener noreferrer">shutouyabo</a>
+copyright: Copyright &copy; 2021-present <a href="<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"L0ZDlWY6HhH0NxKi",ck:"L0ZDlWY6HhH0NxKi"})</script>" target="_blank" rel="noopener noreferrer">shutouyabo</a>
 
 theme:
   name: material
