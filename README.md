@@ -1,6 +1,6 @@
 ### 💡《天涯神贴》知识库。
 
-网址：[https://tainya.zhihu.blog/](https://zhangxuefeng.zhihu.blog/)
+网址：[https://tainya.zhihu.blog/](https://tianya.zhihu.blog/)
 
 备用网址：[https://tianyashentie.vercel.app/](https://tianyashentie.vercel.app/)
 
