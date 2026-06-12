@@ -17,3 +17,15 @@
 <script charset="UTF-8" id="LA_COLLECT" src="https://sdk.51.la/js-sdk-pro.min.js"></script>
 
 <script>LA.init({id:"L0ZDlWY6HhH0NxKi",ck:"L0ZDlWY6HhH0NxKi"})</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5526194027224228"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5526194027224228"
+     data-ad-slot="6899045873"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
