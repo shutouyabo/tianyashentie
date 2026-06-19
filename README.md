@@ -10,4 +10,4 @@
 
 **扫二维码转存**（截图下方二维码，微信/QQ/夸克网盘APP 扫码后转存即可获取）
 
-![img](docs/images/kuake.png)
+![img](docs/images/kuake.jpg)

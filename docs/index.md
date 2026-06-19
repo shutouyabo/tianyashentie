@@ -6,7 +6,7 @@
 
 **扫二维码转存**（截图下方二维码，微信/QQ/百度/夸克网盘APP 扫码后转存即可获取）
 
-![img](images/kuake.png)
+![img](images/kuake.jpg)
 
 网址：[https://tainya.zhihu.blog/](https://tianya.zhihu.blog/)
 
