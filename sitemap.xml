@@ -1,170 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:fo="http://www.w3.org/1999/XSL/Format"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://tianya.zhihu.blog/</loc>
-  <lastmod>2026-06-21T05:03:46+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/.</loc>
-  <lastmod>2026-06-21T05:03:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c1/c1_01/</loc>
-  <lastmod>2026-06-21T05:03:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c1/c1_02/</loc>
-  <lastmod>2026-06-21T05:03:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c1/c1_03/</loc>
-  <lastmod>2026-06-21T05:03:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c1/c1_04/</loc>
-  <lastmod>2026-06-21T05:03:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c2/c2_01/</loc>
-  <lastmod>2026-06-21T05:03:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c3/c3_01/</loc>
-  <lastmod>2026-06-21T05:03:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c3/c3_02/</loc>
-  <lastmod>2026-06-21T05:03:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c3/c3_03/</loc>
-  <lastmod>2026-06-21T05:03:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c4/c4_01/</loc>
-  <lastmod>2026-06-21T05:03:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c4/c4_02/</loc>
-  <lastmod>2026-06-21T05:03:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c5/c5_01/</loc>
-  <lastmod>2026-06-21T05:03:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c5/c5_02/</loc>
-  <lastmod>2026-06-21T05:03:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c5/c5_03/</loc>
-  <lastmod>2026-06-21T05:03:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c5/c5_04/</loc>
-  <lastmod>2026-06-21T05:03:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_01/</loc>
-  <lastmod>2026-06-21T05:03:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_02/</loc>
-  <lastmod>2026-06-21T05:03:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_03/</loc>
-  <lastmod>2026-06-21T05:03:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_04/</loc>
-  <lastmod>2026-06-21T05:03:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_05/</loc>
-  <lastmod>2026-06-21T05:03:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_06/</loc>
-  <lastmod>2026-06-21T05:03:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_07/</loc>
-  <lastmod>2026-06-21T05:03:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_08/</loc>
-  <lastmod>2026-06-21T05:03:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_09/</loc>
-  <lastmod>2026-06-21T05:03:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_10/</loc>
-  <lastmod>2026-06-21T05:03:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_11/</loc>
-  <lastmod>2026-06-21T05:03:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_12/</loc>
-  <lastmod>2026-06-21T05:03:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_13/</loc>
-  <lastmod>2026-06-21T05:03:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_14/</loc>
-  <lastmod>2026-06-21T05:03:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tianya.zhihu.blog/c6/c6_15/</loc>
-  <lastmod>2026-06-21T05:03:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tianya.zhihu.blog/c5/c5_04/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c3/c3_03/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_03/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c4/c4_02/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c1/c1_04/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_13/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_07/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c5/c5_03/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c3/c3_02/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_02/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c4/c4_01/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c1/c1_03/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_12/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_06/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_09/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c5/c5_02/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c3/c3_01/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_01/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c1/c1_02/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_11/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_05/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_15/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_08/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c5/c5_01/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c1/c1_01/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_10/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_04/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c6/c6_14/</loc>
+  </url>
+  <url>
+    <loc>https://tianya.zhihu.blog/c2/c2_01/</loc>
+  </url>
+  <!--Generated with SimpleSitemap.com - https://simplesitemap.com-->
 </urlset>
