@@ -81,7 +81,7 @@ extra:
       link: https://v6.51.la/land/L0ZDlWY6HhH0NxKi
   analytics:
     provider: google
-    property: G-KJB4RXSKZG
+    property: G-V0ESZ89E23
 
 nav:
   - 前言: "index.md"
