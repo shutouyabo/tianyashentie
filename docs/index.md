@@ -13,13 +13,3 @@
 备用网址：[https://tianyashentie.vercel.app/](https://tianyashentie.vercel.app/)
 
 ---
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-V0ESZ89E23"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-V0ESZ89E23');
-</script>
