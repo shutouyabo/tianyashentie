@@ -79,9 +79,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://v6.51.la/land/L0ZDlWY6HhH0NxKi
-  analytics:
-    provider: google
-    property: G-V0ESZ89E23
+  #analytics:
+    #provider: google
+    #property: G-V0ESZ89E23
 
 nav:
   - 前言: "index.md"
